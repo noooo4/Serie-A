@@ -1,0 +1,13 @@
+.conteiner-marketing{
+    align-items: center;
+}
+
+h2{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 72px;
+    color: #fff;
+    font-family: "Nike Futura", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    background-color: #0d6efd;
+}
